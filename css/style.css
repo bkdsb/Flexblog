@@ -113,10 +113,11 @@ img {
   margin: 0 auto;
   padding: 60px 0;
   display: flex;
+  flex-wrap: wrap;
 }
 
 .sobre-info {
-  flex: 2;
+  flex: 2 1 300px;
   margin: 0 10px;
 }
 
@@ -133,6 +134,7 @@ img {
 }
 
 .sobre-img {
-  flex: 1;
+  flex: 1 1 160px;
   margin: 0 10px;
 }
+
