@@ -1,4 +1,4 @@
-<a href="https://uflexinman.netlify.app/#qualidade">uFlexin</a>
+<a href="https://uflexinman.netlify.app/#qualidade">uFlexin site</a>
 
 </br>
 </br>
